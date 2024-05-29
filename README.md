@@ -15,17 +15,6 @@ Este projeto foi criado com o objetivo de fornecer uma base sólida para a cria�
 - **CSS3**: Estilização avançada e responsiva
 - **Gráficos**: Incluindo placeholders para integração com bibliotecas de gráficos como Chart.js ou D3.js (opcional)
 
-## 📂 Estrutura do Projeto
-
-```plaintext
-dashboard-profissional/
-├── index.html
-├── styles/
-│   └── style.css
-├── images/
-│   └── (imagens e ícones utilizados)
-└── README.md
-
 # 📑 Funcionalidades
 **Layout Moderno**: Design limpo e profissional com atenção aos detalhes.
 **Responsividade**: Funciona perfeitamente em desktops, tablets e smartphones.
@@ -40,3 +29,15 @@ dashboard-profissional/
 - Integração com APIs para dados dinâmicos
 - Adição de animações e transições com CSS
 - Implementação de funcionalidades interativas com JavaScript
+
+## 📂 Estrutura do Projeto
+
+```plaintext
+dashboard-profissional/
+├── index.html
+├── styles/
+│   └── style.css
+├── images/
+│   └── (imagens e ícones utilizados)
+└── README.md
+
