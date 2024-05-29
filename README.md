@@ -22,7 +22,7 @@ Este projeto foi criado com o objetivo de fornecer uma base sólida para a cria�
 
 ##📥 Como Usar
 1. Clone o repositório: 
-  git clone https://github.com/seu-usuario/dashboard-profissional.git
+  git clone https://github.com/rkweber05/ProjetoDashboard.git
 1. Abra o arquivo **index.html** em seu navegador preferido.
 
 ## 📈 Futuras Melhorias
